@@ -16,3 +16,5 @@ In your Command prompt (CMD)
 7. Activate it: .\env\Scripts\activate
 8. Create a folder Django and install it using pip install django
 9. Create the project (django-admin createproject).
+
+#The code is having lack of maintenance 
